@@ -5,6 +5,9 @@
     "stdio.h": "c",
     "mat.h": "c",
     "pessoa.h": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "stdarg.h": "c",
+    "funcoesbasicas.h": "c",
+    "locale.h": "c"
   }
 }
