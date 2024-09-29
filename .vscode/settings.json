@@ -2,6 +2,9 @@
   "C_Cpp.default.compilerPath": "/home/hellmas/aprendizado/einstein/estrutura-dados-einstein/aula-3/complexidade.c",
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "mat.h": "c",
+    "pessoa.h": "c",
+    "string.h": "c"
   }
 }
