@@ -1,5 +1,5 @@
 {
-  "C_Cpp.default.compilerPath": "/home/hellmas/aprendizado/einstein/estrutura-dados-einstein/aula-3/complexidade.c",
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
     "stdio.h": "c",
@@ -8,6 +8,7 @@
     "string.h": "c",
     "stdarg.h": "c",
     "funcoesbasicas.h": "c",
-    "locale.h": "c"
+    "locale.h": "c",
+    "funcoesavancadas.h": "c"
   }
 }

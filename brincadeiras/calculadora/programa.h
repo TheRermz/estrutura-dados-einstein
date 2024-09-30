@@ -1,0 +1,2 @@
+int selecionaOperacao();
+void executaPrograma();
