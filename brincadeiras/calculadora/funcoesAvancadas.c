@@ -10,3 +10,14 @@ int fatorial(int n)
 
     return n * fatorial(n - 1);
 }
+
+int exponencial(int n, int expo)
+{
+
+    if (expo == 0)
+    {
+        return 0;
+    }
+
+    return n * exponencial(n, expo - 1);
+}

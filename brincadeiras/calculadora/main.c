@@ -1,4 +1,4 @@
-#include "funcoesBasicas.h"
+#include "programa.h"
 int main()
 {
     executaPrograma();

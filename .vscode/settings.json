@@ -9,6 +9,8 @@
     "stdarg.h": "c",
     "funcoesbasicas.h": "c",
     "locale.h": "c",
-    "funcoesavancadas.h": "c"
+    "funcoesavancadas.h": "c",
+    "stdlib.h": "c",
+    "programa.h": "c"
   }
 }
